@@ -1,0 +1,501 @@
+¿­1,name,age,Marketvalue,2019/2020 league playing time(min),2019/2020 league mean rating
+1,Kylian Mbappe,21,180,1516 ,8.14
+2,Raheem Sterling,25,128,2661 ,7.35
+3,Neymar,28,128,1322 ,8.58
+4,Sadio Mane,28,120,2756 ,7.45
+5,Mohamed Salah,28,120,2888 ,7.40
+6,Harry Kane,27,120,2590 ,7.33
+7,Kevin De Bruyne,29,120,2800 ,7.97
+8,Trent Alexander-Arnold,22,110,3176 ,7.20
+9,Joao Felix,21,100,1748 ,6.64
+10,Erling Haaland,20,100,1437 ,7.45
+11,Jadon Sancho,20,100,2292 ,7.64
+12,Lionel Messi,33,100,2881 ,8.71
+13,Serge Gnabry,25,90,2203 ,7.49
+14,Jan Oblak,27,90,3396 ,6.60
+15,Joshua Kimmich,25,85,2822 ,7.40
+16,Romelu Lukaku,27,85,2984 ,7.30
+17,Kai Havertz,21,81,2462 ,7.24
+18,Ansu Fati,18,80,1027 ,6.73
+19,Alphonso Davies,20,80,2234 ,7.52
+20,Marcus Rashford,23,80,2655 ,7.35
+21,Bernardo Silva,26,80,2031 ,7.03
+22,Bruno Fernandes,26,80,2753 ,7.78
+23,Paulo Dybala,27,80,2165 ,7.44
+24,Virgil van Dijk,29,80,3420 ,7.32
+25,Antoine Griezmann,29,80,2562 ,6.97
+26,Paul Pogba,27,80,1205 ,7.18
+27,Alisson,28,80,2545 ,6.62
+28,Andrew Robertson,26,75,3114 ,7.11
+29,Thibaut Courtois,28,75,3060 ,6.84
+30,Heung-min Son,28,75,2487 ,7.24
+31,Marc-Andre ter Stegen,28,75,3240 ,6.66
+32,Roberto Firmino,29,72,3003 ,7.14
+33,Lautaro Martinez,23,70,2467 ,6.99
+34,Federico Valverde,22,70,1906 ,6.73
+35,Frenkie de Jong,23,70,2121 ,6.85
+36,Matthijs de Ligt,21,70,2448 ,6.79
+37,Jose Gimenez,25,70,1753 ,6.82
+38,N'Golo Kante,29,70,1733 ,6.90
+39,Leroy Sane,24,70,11 ,6.23
+40,Marquinhos,26,70,1474 ,7.19
+41,Timo Werner,24,70,2809 ,7.60
+42,Raphael Varane,27,70,2823 ,6.98
+43,Saul Niguez,26,70,3076 ,7.22
+44,Sergej Milinkovic-Savic,25,65,3038 ,7.27
+45,Kalidou Koulibaly,29,65,2108 ,6.72
+46,David Alaba,28,65,2498 ,6.99
+47,Casemiro,28,65,3091 ,7.47
+48,Rodri,24,64,2488 ,7.09
+49,Phil Foden,20,60,893 ,6.86
+50,Richarlison,23,60,3111 ,7.19
+51,Gabriel Jesus,23,60,2026 ,7.26
+52,Arthur,24,60,1185 ,6.84
+53,Mikel Oyarzabal,23,60,3063 ,7.05
+54,Dayot Upamecano,22,60,2360 ,7.06
+55,Gianluigi Donnarumma,21,60,3202 ,6.81
+56,Christian Pulisic,22,60,1727 ,7.18
+57,Fabinho,27,60,2075 ,6.89
+58,Anthony Martial,24,60,2640 ,7.31
+59,Aymeric Laporte,26,60,1104 ,7.00
+60,Leon Goretzka,25,60,1513 ,7.17
+61,Stefan de Vrij,28,60,2830 ,6.92
+62,Marco Verratti,28,60,1482 ,7.32
+63,Philippe Coutinho,28,60,1414 ,7.22
+64,Koke,28,60,2699 ,7.02
+65,Eden Hazard,29,60,1088 ,7.30
+66,Robert Lewandowski,32,60,2762 ,8.13
+67,Cristiano Ronaldo,35,60,2919 ,7.82
+68,Ederson,27,56,3072 ,6.62
+69,Declan Rice,21,55,3420 ,7.01
+70,James Maddison,24,55,2629 ,7.34
+71,Mauro Icardi,27,55,1268 ,7.15
+72,Dele Alli,24,52,1854 ,6.87
+73,Eduardo Camavinga,18,50,2112 ,7.12
+74,Mason Greenwood,19,50,1313 ,6.73
+75,Renan Lodi,22,50,2399 ,6.76
+76,Victor Osimhen,21,50,2289 ,7.14
+77,Achraf Hakimi,22,50,2717 ,7.32
+78,Houssem Aouar,22,50,1963 ,7.02
+79,Vinicius Junior,20,50,1354 ,6.66
+80,Rodrigo Bentancur,23,50,2199 ,7.10
+81,Fabian Ruiz,24,50,2689 ,7.03
+82,Diego Carlos,27,50,3135 ,6.90
+83,Ben Chilwell,23,50,2376 ,6.96
+84,Ousmane Dembele,23,50,358 ,6.70
+85,Lucas Hernandez,24,50,916 ,6.51
+86,Ruben Dias,23,50,2970 ,7.07
+87,Nicolo Barella,23,50,2018 ,6.80
+88,Thomas Partey,27,50,2553 ,7.08
+89,Ruben Neves,23,50,3060 ,6.82
+90,Milan Skriniar,25,50,2628 ,6.61
+91,Lucas Ocampos,26,50,2756 ,7.21
+92,Clement Lenglet,25,50,2428 ,6.90
+93,Harry Maguire,27,50,3450 ,7.12
+94,Wilfried Zaha,28,50,3280 ,6.98
+95,Luis Alberto,28,50,3122 ,7.55
+96,Jorginho,28,50,2384 ,6.85
+97,Christian Eriksen,28,50,1793 ,6.56
+98,Pierre-Emerick Aubameyang,31,50,3139 ,7.03
+99,Miralem Pjanic,30,50,2286 ,7.08
+100,Toni Kroos,30,50,2656 ,7.20
+101,Federico Chiesa,23,48,2651 ,7.05
+102,Riyad Mahrez,29,48,1942 ,7.48
+103,Niklas Sule,25,48,642 ,6.86
+104,Lorenzo Insigne,29,48,2823 ,7.11
+105,Thiago,29,48,1772 ,7.47
+106,Dejan Kulusevski,20,45,2938 ,7.12
+107,Rodrygo,19,45,1023 ,6.72
+108,Ferran Torres,20,45,2260 ,6.72
+109,Nicolo Zaniolo,21,45,1535 ,6.87
+110,Benjamin Pavard,24,45,2790 ,7.19
+111,Mason Mount,21,45,2875 ,6.91
+112,Davinson Sanchez,24,45,2432 ,6.66
+113,Theo Hernandez,23,45,2819 ,7.19
+114,Martin Odegaard,21,45,2533 ,7.10
+115,Alessandro Bastoni,21,45,1922 ,6.76
+116,Marcos Llorente,25,45,1368 ,6.59
+117,Wilfred Ndidi,23,45,2674 ,7.23
+118,Youri Tielemans,23,45,2834 ,6.88
+119,Jack Grealish,25,45,3234 ,7.23
+120,Memphis Depay,26,45,1022 ,7.59
+121,Ciro Immobile,30,45,3176 ,7.57
+122,Mateo Kovacic,26,45,2073 ,6.94
+123,Donny van de Beek,23,44,1916 ,7.41
+124,Alexandre Lacazette,29,42,1878 ,6.92
+125,Sergio Aguero,32,42,1460 ,7.16
+126,Ibrahima Konate,21,40.5,568 ,6.81
+127,Aaron Wan-Bissaka,23,40,3102 ,7.19
+128,Tanguy Ndombele,23,40,1011 ,6.71
+129,Bukayo Saka,19,40,1755 ,6.65
+130,Jules Kounde,22,40,2307 ,6.87
+131,Eder Militao,22,40,1020 ,6.85
+132,Pau Torres,23,40,2971 ,6.67
+133,Nicolas Pepe,25,40,2016 ,7.06
+134,Diogo Jota,23,40,2298 ,6.76
+135,Denis Zakaria,24,40,1947 ,7.15
+136,Tammy Abraham,23,40,2221 ,6.91
+137,Caglar Soyuncu,24,40,3037 ,7.04
+138,Marcus Thuram,23,40,2217 ,7.30
+139,Dominic Calvert-Lewin,23,40,2660 ,6.87
+140,Naby Keita,25,40,814 ,6.94
+141,Marco Asensio,24,40,334 ,6.79
+142,Ferland Mendy,25,40,1806 ,7.01
+143,Angel Correa,25,40,2065 ,6.67
+144,Joe Gomez,23,40,2000 ,6.78
+145,Alex Telles,27,40,2558 ,7.37
+146,Kingsley Coman,24,40,1507 ,7.13
+147,Moussa Dembele,24,40,2189 ,7.06
+148,Hakim Ziyech,27,40,1619 ,8.19
+149,Raul Jimenez,29,40,3252 ,7.25
+150,Adama Traore,24,40,2608 ,7.49
+151,Nathan Ake,25,40,2505 ,6.75
+152,Marcelo Brozovic,28,40,2703 ,7.15
+153,Wissam Ben Yedder,30,40,2173 ,7.35
+154,Daniel Carvajal,28,40,2741 ,7.18
+155,Alvaro Morata,28,40,2105 ,6.88
+156,Kyle Walker,30,40,2398 ,6.90
+157,Duvan Zapata,29,40,2038 ,7.41
+158,Ilkay Gundogan,30,40,2017 ,6.70
+159,Georginio Wijnaldum,30,40,2948 ,6.81
+160,Lukas Klostermann,24,38,2647 ,6.89
+161,David Neres,23,36,635 ,7.21
+162,Moussa Diaby,21,36,1771 ,6.93
+163,Jonathan Ikone,22,36,2075 ,6.85
+164,Andre Onana,24,36,2160 ,6.76
+165,Alessio Romagnoli,25,36,3092 ,6.86
+166,Joao Cancelo,26,36,1206 ,7.21
+167,Maxi Gomez,24,35,2149 ,6.70
+168,Callum Hudson-Odoi,20,35,852 ,6.56
+169,Giovani Lo Celso,24,35,1489 ,6.62
+170,Mikel Merino,24,35,3144 ,7.31
+171,Franck Kessie,23,35,2912 ,6.75
+172,Presnel Kimpembe,25,35,1224 ,7.00
+173,Nelson Semedo,27,35,2097 ,6.79
+174,Julian Brandt,24,35,2210 ,7.04
+175,Piotr Zielinski,26,35,2926 ,6.79
+176,Raphael Guerreiro,26,35,2340 ,7.32
+177,Andrea Belotti,26,35,3011 ,7.12
+178,Alassane Plea,27,35,2151 ,7.24
+179,Matthias Ginter,26,35,2781 ,6.84
+180,Marcel Sabitzer,26,35,2507 ,7.24
+181,James Rodriguez,29,35,419 ,6.91
+182,Alex Sandro,29,35,2386 ,6.97
+183,David de Gea,30,35,3450 ,6.57
+184,Thomas Muller,31,35,2260 ,7.42
+185,Wojciech Szczesny,30,35,2592 ,6.96
+186,Ismael Bennacer,22,33,2488 ,7.07
+187,Christopher Nkunku,23,33,1927 ,7.33
+188,Hirving Lozano,25,33,1021 ,6.52
+189,Dani Olmo,22,33,754 ,7.01
+190,Matheus Cunha,21,32,1021 ,6.97
+191,Matteo Guendouzi,21,32,1748 ,6.69
+192,Sandro Tonali,20,32,3019 ,6.86
+193,Boubacar Kamara,21,32,2141 ,6.99
+194,Dani Ceballos,24,32,1699 ,6.84
+195,Kieran Tierney,23,32,993 ,6.64
+196,Lorenzo Pellegrini,24,32,2109 ,7.05
+197,Allan Saint-Maximin,23,32,1874 ,7.29
+198,Ricardo Pereira,27,32,2520 ,7.50
+199,Nabil Fekir,27,32,2652 ,7.22
+200,Hector Bellerin,25,32,1159 ,6.64
+201,Ante Rebic,27,32,1400 ,6.85
+202,Florian Thauvin,27,32,20 ,6.30
+203,Filip Kostic,28,32,2959 ,7.41
+204,Konstantinos Manolas,29,32,2178 ,6.71
+205,Thorgan Hazard,27,32,2393 ,7.21
+206,Joel Matip,29,32,704 ,7.29
+207,Bernd Leno,28,32,2650 ,6.88
+208,Andrej Kramaric,29,32,1423 ,7.21
+209,Angel Di Maria,32,32,2005 ,7.75
+210,Dan-Axel Zagadou,21,31.5,980 ,6.98
+211,Pedri,18,30,N/A,N/A
+212,Edmond Tapsoba,21,30,2408 ,6.69
+213,Jonathan David,20,30,N/A,N/A
+214,Giovanni Reyna,18,30,345 ,6.32
+215,Reece James,20,30,1514 ,6.90
+216,Trincao,20,30,1606 ,7.28
+217,Takefusa Kubo,19,30,2309 ,6.75
+218,Carlos Soler,23,30,2075 ,6.39
+219,Ollie Watkins,24,30,4430 ,7.26
+220,Malcom,23,30,829 ,7.33
+221,Lucas Torreira,24,30,1510 ,6.52
+222,Manuel Locatelli,22,30,2597 ,7.13
+223,Unai Simon,23,30,2992 ,6.64
+224,Rodrigo de Paul,26,30,2828 ,7.25
+225,Inaki Williams,26,30,2959 ,6.69
+226,Wout Weghorst,28,30,2741 ,7.06
+227,Joaquin Correa,26,30,2005 ,7.16
+228,Konrad Laimer,23,30,2124 ,6.96
+229,Jose Gaya,25,30,1989 ,6.64
+230,Nico Elvedi,24,30,2624 ,6.88
+231,Sebastien Haller,26,30,2263 ,7.08
+232,Gerard Moreno,28,30,2755 ,7.31
+233,Kurt Zouma,26,30,2344 ,6.91
+234,Rodrigo,29,30,1889 ,6.76
+235,Lucas Digne,27,30,3035 ,7.16
+236,Hakan Calhanoglu,26,30,2719 ,7.19
+237,Jesus Corona,27,30,2793 ,7.39
+238,Antonio Rudiger,27,30,1711 ,6.77
+239,Jordi Alba,31,30,2190 ,6.87
+240,Leon Bailey,23,29.5,1095 ,6.70
+241,Bruno Guimaraes,23,28,2235 ,7.17
+242,Gabriel,22,28,2087 ,6.93
+243,Nikola Milenkovic,23,28,3257 ,6.75
+244,Harvey Barnes,22,28,2094 ,6.76
+245,Rafael Leao,21,28,1397 ,6.72
+246,Jarrod Bowen,23,28,922 ,6.99
+247,Steven Bergwijn,23,28,2041 ,7.07
+248,Sergio Reguilon,23,28,2509 ,7.10
+249,Florian Neuhaus,23,28,2362 ,6.98
+250,Harry Winks,24,28,2230 ,6.57
+251,Thilo Kehrer,24,28,480 ,6.71
+252,Andre Silva,25,28,1580 ,6.87
+253,Alejandro Grimaldo,25,28,2301 ,7.42
+254,Adrien Rabiot,25,28,1914 ,6.82
+255,James Tarkowski,28,28,3420 ,7.19
+256,Leander Dendoncker,25,28,2795 ,6.68
+257,Jordan Veretout,27,28,2663 ,6.74
+258,Benjamin Mendy,26,28,1497 ,6.83
+259,Nicolas Tagliafico,28,28,2054 ,7.30
+260,Michael Keane,27,28,2586 ,6.83
+261,Granit Xhaka,28,28,2591 ,6.78
+262,Kevin Volland,28,28,2051 ,7.10
+263,Jordan Henderson,30,28,2244 ,7.15
+264,Jude Bellingham,17,27,2710 ,6.78
+265,Douglas Luiz,22,27,2608 ,6.63
+266,Merih Demiral,22,27,418 ,7.05
+267,Robin Gosens,26,27,2628 ,7.22
+268,Tyrone Mings,27,27,2903 ,6.63
+269,Arkadiusz Milik,26,27,1751 ,6.88
+270,Lewis Dunk,29,27,3231 ,6.89
+271,Tiemoue Bakayoko,26,26,1722 ,7.05
+272,Jordan Pickford,26,26,3450 ,6.40
+273,Emre Can,26,26,1239 ,6.74
+274,Alex Iwobi,24,25.5,1604 ,6.56
+275,Corentin Tolisso,26,25.5,638 ,6.68
+276,Gabriel Martinelli,19,25,657 ,6.40
+277,Gabriel Veron,18,25,N/A,N/A
+278,Rayan Cherki,17,25,N/A,N/A
+279,Dwight McNeil,21,25,3345 ,7.06
+280,Fabio Silva,18,25,N/A,N/A
+281,Emerson,21,25,1026 ,6.71
+282,Benoit Badiashile,19,25,1413 ,6.84
+283,Dominik Szoboszlai,20,25,N/A,N/A
+284,Samu Chukwueze,21,25,2039 ,6.63
+285,Marash Kumbulla,20,25,1958 ,6.79
+286,Moise Kean,20,25,1402 ,6.27
+287,Ozan Kabak,20,25,1776 ,6.85
+288,Ben Godfrey,22,25,2646 ,6.45
+289,Jeff Reine-Adelaide,22,25,870 ,8.03
+290,Donyell Malen,21,25,1191 ,7.59
+291,Everton,24,25,2277 ,7.33
+292,Gaetano Castrovilli,23,25,2681 ,6.94
+293,Nikola Vlasic,23,25,2651 ,7.50
+294,Manuel Akanji,25,25,2309 ,6.66
+295,Mario Hermoso,25,25,1220 ,6.61
+296,Angelino,23,25,1517 ,6.95
+297,Issa Diop,23,25,2766 ,6.62
+298,Patrik Schick,24,25,1304 ,7.06
+299,Alex Meret,23,25,1951 ,6.36
+300,Abdou Diallo,24,25,1203 ,6.88
+301,Thomas Strakosha,25,25,3420 ,6.81
+302,Djene,28,25,3060 ,6.64
+303,Jeremie Boga,23,25,2525 ,7.17
+304,Mario Pasalic,25,25,2426 ,6.94
+305,Federico Bernardeschi,26,25,1576 ,6.52
+306,John Stones,26,25,1119 ,6.68
+307,Pierre-Emile Hojbjerg,25,25,2751 ,6.83
+308,Felipe Anderson,27,25,1508 ,7.23
+309,Inigo Martinez,29,25,2970 ,6.90
+310,Yussuf Poulsen,26,25,1219 ,6.87
+311,Felipe,31,25,2099 ,6.97
+312,Yannick Carrasco,27,25,2713 ,7.15
+313,Conor Coady,27,25,3420 ,6.51
+314,Abdoulaye Doucoure,27,25,3167 ,6.67
+315,Paco Alcacer,27,25,1460 ,6.66
+316,Allan,29,25,1281 ,6.66
+317,Jose Campana,27,25,3160 ,7.00
+318,Sergi Roberto,28,25,2342 ,6.85
+319,Lucas Moura,28,25,2249 ,6.96
+320,Pablo Sarabia,28,25,1165 ,6.73
+321,Gareth Bale,31,25,1092 ,6.82
+322,Marco Reus,31,25,1502 ,7.50
+323,Karim Benzema,32,25,3155 ,7.44
+324,Boubakary Soumare,21,24.5,1217 ,6.35
+325,Florian Wirtz,17,24,N/A,N/A
+326,Igor Zubeldia,23,24,2639 ,6.61
+327,Timothy Castagne,24,24,1764 ,6.72
+328,Yeray Alvarez,25,24,2811 ,6.99
+329,Rafa Silva,27,24,1699 ,7.11
+330,Andre Gomes,27,24,1461 ,6.43
+331,Ruben Loftus-Cheek,24,24,205 ,6.31
+332,Andreas Christensen,24,24,1754 ,6.75
+333,Victor Lindelof,26,24,3124 ,6.71
+334,Domenico Berardi,26,24,2505 ,7.45
+335,Alex Oxlade-Chamberlain,27,24,1493 ,6.63
+336,Danilo Pereira,29,24,2155 ,6.98
+337,Idrissa Gueye,31,24,1655 ,7.33
+338,Willian Jose,29,24,2018 ,6.51
+339,Julian Draxler,27,24,685 ,6.93
+340,Nordi Mukiele,23,23,1785 ,7.07
+341,Cengiz Under,23,23,873 ,6.87
+342,Nahitan Nandez,24,23,2932 ,6.65
+343,Kasper Dolberg,23,23,1895 ,6.94
+344,Duje Caleta-Car,24,23,1884 ,6.80
+345,Remo Freuler,28,23,2344 ,6.80
+346,Marten de Roon,29,23,2718 ,6.90
+347,Reinier,18,22.5,711 ,6.89
+348,William Saliba,19,22.5,991 ,6.69
+349,Wesley Fofana,19,22.5,1215 ,6.80
+350,Evan N'Dicka,21,22.5,1725 ,6.54
+351,Scott McTominay,23,22.5,1772 ,6.92
+352,Morgan Sanson,26,22.5,2186 ,6.97
+353,Callum Wilson,28,22.5,2911 ,6.51
+354,Pedro Neto,20,22,929 ,6.45
+355,Max Aarons,20,22,3240 ,6.55
+356,Luiz Felipe,23,22,2030 ,6.76
+357,Ismaila Sarr,22,22,2030 ,6.71
+358,Riccardo Orsolini,23,22,2694 ,6.89
+359,Kalvin Phillips,24,22,3254 ,7.22
+360,Alexander Isak,21,22,1500 ,6.41
+361,Weston McKennie,22,22,2078 ,6.78
+362,Said Benrahma,25,22,3843 ,7.49
+363,Luka Jovic,22,22,422 ,6.35
+364,Daniel Podence,25,22,287 ,6.49
+365,Gianluca Mancini,24,22,2773 ,6.78
+366,Neal Maupay,24,22,2770 ,6.66
+367,Luke Shaw,25,22,1764 ,6.85
+368,Eric Dier,26,22,1342 ,6.71
+369,Giovanni Di Lorenzo,27,22,2970 ,6.86
+370,Matteo Politano,27,22,997 ,6.59
+371,Dennis Praet,26,22,1135 ,6.39
+372,Luis Muriel,29,22,1246 ,6.95
+373,Mario Fernandes,30,22,2604 ,7.13
+374,Aleksandar Mitrovic,26,22,3619 ,7.23
+375,Aaron Ramsey,29,22,1049 ,6.63
+376,Krzysztof Piatek,25,21.5,1190 ,6.50
+377,Ross Barkley,26,21.5,1104 ,6.84
+378,Ruslan Malinovskyi,27,21,1523 ,7.00
+379,Rayan Ait Nouri,19,20,1286 ,6.74
+380,Kang-in Lee,19,20,445 ,6.20
+381,Matheus Henrique,22,20,1766 ,7.05
+382,Carlos Vinicius,25,20,1784 ,7.01
+383,Krepin Diatta,21,20,N/A,N/A
+384,Jeremy Doku,18,20,N/A,N/A
+385,Lisandro Martinez,22,20,2033 ,7.41
+386,Eric Garcia,19,20,791 ,6.69
+387,Lucas Paqueta,23,20,1102 ,6.53
+388,Edouard Mendy,28,20,2160 ,6.95
+389,Youcef Atal,24,20,1006 ,7.15
+390,Ryan Sessegnon,20,20,343 ,6.32
+391,Wesley,24,20,N/A,N/A
+392,Patson Daka,22,20,N/A,N/A
+393,Sergino Dest,20,20,1444 ,6.81
+394,Amadou Diawara,23,20,1523 ,6.71
+395,Andre Zambo Anguissa,25,20,2582 ,7.06
+396,Lucas Tousart,23,20,1762 ,6.90
+397,Eddie Nketiah,21,20,500 ,6.34
+398,Unai Nunez,23,20,1569 ,6.55
+399,Joelinton,24,20,2699 ,6.67
+400,Todd Cantwell,22,20,2504 ,6.59
+401,Riqui Puig,21,20,508 ,6.81
+402,Justin Kluivert,21,20,1554 ,6.73
+403,Fikayo Tomori,22,20,1293 ,6.88
+404,Jonathan Bamba,24,20,1942 ,6.82
+405,Mauro Arambarri,25,20,3072 ,6.73
+406,Yerry Mina,26,20,2282 ,6.83
+407,Sofyan Amrabat,24,20,2929 ,6.77
+408,Marc Cucurella,22,20,3250 ,6.82
+409,Tomas Soucek,25,20,1041 ,7.14
+410,Moussa Marega,29,20,2316 ,7.20
+411,Nemanja Maksimovic,25,20,2898 ,6.71
+412,Aleksandr Golovin,24,20,2069 ,7.11
+413,Joan Jordan,26,20,2267 ,6.94
+414,Suat Serdar,23,20,1605 ,7.31
+415,Dean Henderson,23,20,3240 ,6.72
+416,Renato Sanches,23,20,1482 ,7.13
+417,Gelson Martins,25,20,1682 ,6.86
+418,Zeki Celik,23,20,2070 ,6.73
+419,Ayoze Perez,27,20,2020 ,6.77
+420,Diego Llorente,27,20,2330 ,6.51
+421,Enis Bardhi,25,20,2114 ,6.77
+422,Gabriel Barbosa,24,20,2547 ,7.55
+423,Juan Musso,26,20,3420 ,6.93
+424,Alexander Sorloth,24,20,2990 ,7.57
+425,Stefano Sensi,25,20,727 ,7.11
+426,Alex Remiro,25,20,2250 ,6.61
+427,Oleksandr Zinchenko,23,20,1273 ,6.70
+428,Jonathan Tah,24,20,2090 ,6.90
+429,Florian Grillitsch,25,20,2412 ,6.80
+430,Lucas Alario,28,20,1165 ,6.64
+431,Mike Maignan,25,20,2520 ,6.58
+432,Jean-Philippe Gbamin,25,20,135 ,6.76
+433,James Ward-Prowse,26,20,3420 ,7.15
+434,Sardar Azmoun,25,20,2102 ,7.34
+435,Matt Doherty,28,20,2841 ,6.99
+436,Leandro Paredes,26,20,807 ,6.61
+437,Danny Ings,28,20,2815 ,7.12
+438,Suso,27,20,2146 ,6.79
+439,Emil Forsberg,29,20,1142 ,6.71
+440,Stefan Savic,29,20,1980 ,6.76
+441,Chris Smalling,31,20,2596 ,7.00
+442,William Carvalho,28,20,894 ,6.41
+443,Kieran Trippier,30,20,1981 ,6.99
+444,Isco,28,20,1190 ,6.70
+445,Douglas Costa,30,20,793 ,6.75
+446,Marcel Halstenberg,29,20,2523 ,7.15
+447,Sergio Canales,29,20,3167 ,6.88
+448,Pizzi,31,20,2827 ,7.61
+449,Cesar Azpilicueta,31,20,3230 ,7.12
+450,Henrikh Mkhitaryan,31,20,1647 ,6.63
+451,Toby Alderweireld,31,20,2958 ,6.82
+452,Mats Hummels,31,20,2586 ,7.11
+453,Dusan Tadic,32,20,2172 ,7.72
+454,Alessio Cragno,26,20,1440 ,6.96
+455,Daley Blind,30,20,1745 ,7.20
+456,Dodi Lukebakio,23,19,2047 ,6.83
+457,Viktor Tsygankov,23,19,N/A,N/A
+458,Stanislav Lobotka,26,19,753 ,6.57
+459,Oscar,29,19,2520 ,7.97
+460,Anthony Lopes,30,19,2340 ,6.71
+461,Willian,32,19,2605 ,7.31
+462,Paulinho,32,18.5,2436 ,7.66
+463,Antony,20,18,2383 ,7.14
+464,Thiago Almada,19,18,1198 ,6.82
+465,Darwin Nunez,21,18,N/A,N/A
+466,Tariq Lamptey,20,18,591 ,6.84
+467,Mohamed Ihattaren,18,18,N/A,N/A
+468,Musa Barrow,22,18,1540 ,6.83
+469,Eberechi Eze,22,18,4063 ,7.36
+470,Myron Boadu,19,18,2020 ,7.19
+471,Raphinha,23,18,2055 ,7.08
+472,Calvin Stengs,21,18,2158 ,7.38
+473,Amadou Haidara,22,18,745 ,6.55
+474,Exequiel Palacios,22,18,1070 ,6.91
+475,Eljif Elmas,21,18,1128 ,6.40
+476,Pablo Fornals,24,18,2179 ,6.48
+477,Florentino,21,18,746 ,7.19
+478,Mason Holgate,24,18,2084 ,6.77
+479,Sander Berge,22,18,950 ,6.81
+480,Valentin Rongier,25,18,1793 ,7.07
+481,Takehiro Tomiyasu,22,18,2532 ,6.81
+482,Manuel Lazzari,26,18,2555 ,6.57
+483,Christoph Baumgartner,21,18,1496 ,6.75
+484,Diego Rossi,22,18,3082 ,7.38
+485,Milot Rashica,24,18,2278 ,6.99
+486,Ainsley Maitland-Niles,23,18,1383 ,6.63
+487,Carles Alena,22,18,902 ,6.30
+488,Ramy Bensebaini,25,18,1450 ,7.14
+489,David Brooks,23,18,513 ,6.37
+490,Hans Hateboer,26,18,2355 ,6.66
+491,Aleksey Miranchuk,25,18,2273 ,7.31
+492,Otavio,25,18,2213 ,6.92
+493,Bryan Cristante,25,18,1644 ,6.53
+494,Kepa,26,18,2970 ,6.36
+495,Emerson,26,18,1026 ,6.71
+496,Nathan Redmond,26,18,2771 ,6.96
+497,Kerem Demirbay,27,18,1578 ,6.91
+498,Nikola Maksimovic,29,18,1801 ,6.79
+499,Leonardo Spinazzola,27,18,1549 ,6.67
+500,Marcos Alonso,29,18,1433 ,7.30
